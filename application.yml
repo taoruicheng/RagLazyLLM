@@ -1,0 +1,3 @@
+rag:
+  docPath: /Users/taoruicheng/python_work/RagLazyLLM/docs/pdf
+  milvus: /Users/taoruicheng/python_work/RagLazyLLM/docs/db/milvus/milvus.db
